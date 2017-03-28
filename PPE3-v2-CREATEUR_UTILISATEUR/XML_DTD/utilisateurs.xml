@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE projet SYSTEM "XML_DTD/utilisateurs.dtd" >
+<projet>
+  <utilisateurs>
+    <email>soufian.a@free.fr</email>
+    <password>test123</password>
+    <nom>AIT TIRITE</nom>
+    <prenom>SOUFIAN</prenom>
+  </utilisateurs>
+  <utilisateurs>
+    <email>steven@gmail.com</email>
+    <password>blabla123</password>
+    <nom>DE CARVALHO</nom>
+    <prenom>STEVEN</prenom>
+  </utilisateurs>
+</projet>
